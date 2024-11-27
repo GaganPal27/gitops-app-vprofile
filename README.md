@@ -1,1 +1,1 @@
-Github Link for the IaC workflow: https://github.com/AFZAALAHMEDKHAN/gitops-iac-vprofile.git
+Github Link for the IaC workflow: https://github.com/GaganPal27/gitops-iac-vprofile.git
